@@ -11,3 +11,11 @@ A modern responsive front-end framework based on Material Design
 ## repl.it   
 Instant programming environment   
 [link](https://repl.it/)   
+
+## bling.js
+$ of jQuery without the jQuery
+[link](https://gist.github.com/marcelosomers/d1fcba022e344fbb3634)   
+
+## Codeshare
+Share Code in Real-time
+[link](https://codeshare.io/)
