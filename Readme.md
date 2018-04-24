@@ -1,3 +1,9 @@
+## DocToc
+Generates table of contents for markdown files inside local git repository
+[link](https://github.com/thlorenz/doctoc)
+
+
+
 ## Interact.JS
 Javascript module for drag-n-drop,resizing, multi-touch gestures, inertia    
 [Docs](http://interactjs.io/docs/)   
