@@ -25,3 +25,7 @@ $ of jQuery without the jQuery
 ## Codeshare
 Share Code in Real-time
 [link](https://codeshare.io/)
+
+## nanoJS
+Minimal standalone JS library for DOM manipulation
+[link](https://vladocar.github.io/nanoJS/)
